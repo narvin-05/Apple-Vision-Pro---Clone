@@ -1,4 +1,4 @@
-5956
+5958
 170C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\prepare\createDeclarationIndexer.js133344109203210493 0
 134C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\Atrule.js133344109199384246 0
 85C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\is-arrayish133344109197606525 1
@@ -16,7 +16,7 @@
 117C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\optimizer-svgo\lib\SVGOOptimizer.js133344109223711168 0
 120C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\csso\node_modules\css-tree\lib\syntax\function133344109227688150 1
 87C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\Apple vision canvas images133344098768829420 1
-73C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\package.json133344111001023922 0
+73C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\package.json133344133867669145 0
 120C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-tree\cjs\definition-syntax\SyntaxError.cjs133344109220533617 0
 95C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\dotenv-expand\LICENSE133344109195602674 0
 84C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\is-extglob133344109195297884 1
@@ -42,6 +42,21 @@
 108C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\core\lib\CommittedAsset.js133344109236297416 0
 128C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\runtime-browser-hmr\src\loaders\.eslintrc.json133344109225683515 0
 105C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\caniuse-lite\data\regions\CZ.js133344109227888204 0
+108C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\lmdb\dependencies\lz4\lib\xxhash.c133344109217048717 0
+97C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\semver\functions\gte.js133344109203390522 0
+99C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\dotenv-expand\lib\main.js133344109196812840 0
+107C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\svgo\plugins\removeHiddenElems.js133344109209630301 0
+105C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\caniuse-lite\data\regions\UZ.js133344109241493734 0
+118C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\caniuse-lite\data\features\css-gencontent.js133344109223711168 0
+87C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\utility-types133344109201375863 1
+74C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\script.js.map133344133924505665 0
+103C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-select\lib\esm\compile.js133344109198957147 0
+128C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean133344109210645342 1
+73C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules133344109357608127 1
+95C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\js-yaml\lib\dumper.js133344109198253937 0
+70C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\script.js133344133924455823 0
+116C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\packager-js\lib\ESMOutputFormat.js133344109226609815 0
+96C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\update-browserslist-db133344109197657419 1
 116C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\caniuse-lite\data\features\svg-fragment.js133344109240194221 0
 90C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\domutils\LICENSE133344109193368408 0
 99C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\fs-search\LICENSE133344109206485590 0
@@ -51,9 +66,6 @@
 118C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\caniuse-lite\data\features\css-textshadow.js133344109226984803 0
 102C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\svgo\plugins\cleanupAttrs.js133344109199827360 0
 78C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\package-lock.json133344109356943387 0
-128C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean133344109210645342 1
-73C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules133344109357608127 1
-95C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\js-yaml\lib\dumper.js133344109198253937 0
 64C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\src133344110731827836 1
 137C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-select\node_modules\entities\lib\generated\encode-html.d.ts133344109213878469 0
 101C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\node-addon-api\package.json133344109206117466 0
@@ -277,10 +289,10 @@
 105C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\caniuse-lite\data\regions\BO.js133344109215878723 0
 112C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\caniuse-lite\data\features\bloburls.js133344109215291029 0
 93C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\svgo\lib\builtin.js133344109199466796 0
-78C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\csso133344109219175430 1
-108C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-select\lib\esm\attributes.d.ts133344109215770108 0
 105C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\caniuse-lite\data\regions\WF.js133344109242709804 0
 83C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\is-number133344109195218848 1
+78C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\csso133344109219175430 1
+108C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-select\lib\esm\attributes.d.ts133344109215770108 0
 88C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\dom-serializer133344109200132190 1
 100C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\msgpackr\dist\index.js.map133344109208538244 0
 126C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\caniuse-lite\data\features\link-rel-modulepreload.js133344109234417967 0
@@ -505,15 +517,6 @@
 93C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\term-size\readme.md133344109198713887 0
 120C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\abortcontroller-polyfill\src\abortableFetch.js133344109194352172 0
 102C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\weak-lru-cache\tests\test.js133344109196920396 0
-116C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\packager-js\lib\ESMOutputFormat.js133344109226609815 0
-96C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\update-browserslist-db133344109197657419 1
-108C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\lmdb\dependencies\lz4\lib\xxhash.c133344109217048717 0
-97C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\semver\functions\gte.js133344109203390522 0
-99C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\dotenv-expand\lib\main.js133344109196812840 0
-107C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\svgo\plugins\removeHiddenElems.js133344109209630301 0
-105C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\caniuse-lite\data\regions\UZ.js133344109241493734 0
-118C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\caniuse-lite\data\features\css-gencontent.js133344109223711168 0
-87C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\utility-types133344109201375863 1
 128C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\csso\node_modules\css-tree\cjs\syntax\pseudo\index.cjs133344109214033480 0
 91C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\react-refresh\cjs133344109197168722 1
 85C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\xxhash-wasm133344109199400775 1
@@ -557,14 +560,14 @@
 148C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeRasterImages.js133344109211580566 0
 96C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\xxhash-wasm\LICENSE.md133344109198580879 0
 98C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\xxhash-wasm\package.json133344109196124135 0
-151C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\nth-of-type.js133344109218426723 0
-149C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo\package.json133344109230061013 0
-98C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\semver\functions\sort.js133344109210165585 0
-98C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\js-yaml\lib\type\omap.js133344109204974335 0
 142C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\csso\node_modules\css-tree\cjs\syntax\node\PseudoElementSelector.cjs133344109218574338 0
 114C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\node-resolver-core\lib\_empty.js133344109205107500 0
 125C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c133344109208497318 0
 95C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\xxhash-wasm\README.md133344109199110380 0
+98C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\js-yaml\lib\type\omap.js133344109204974335 0
+151C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\nth-of-type.js133344109218426723 0
+149C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo\package.json133344109230061013 0
+98C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\semver\functions\sort.js133344109210165585 0
 98C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\csso\cjs\replace\Url.cjs133344109207861746 0
 116C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-select\lib\pseudo-selectors\aliases.js133344109195824829 0
 96C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\xxhash-wasm\types.d.ts133344109199506997 0
@@ -723,9 +726,9 @@
 128C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\src133344109237059186 1
 98C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-tree\cjs\version.cjs133344109221480182 0
 93C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\is-json\.travis.yml133344109196597929 0
+118C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\workers\lib\threads\ThreadsWorker.js133344109218590103 0
 121C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-tree\lib\tokenizer\char-code-definitions.js133344109222626374 0
 101C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\svgo\plugins\mergeStyles.js133344109205529114 0
-118C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\workers\lib\threads\ThreadsWorker.js133344109218590103 0
 112C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\utility-types\dist\mapped-types.js.map133344109199479302 0
 111C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@swc\helpers\src\_new_arrow_check.mjs133344109232554885 0
 129C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.c133344109213923891 0
@@ -3129,8 +3132,6 @@
 132C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@swc\helpers\_\_class_apply_descriptor_update\package.json133344109228382752 0
 130C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@swc\helpers\cjs\_class_apply_descriptor_destructure.cjs133344109201087649 0
 110C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-what\lib\commonjs\types.d.ts.map133344109202446899 0
-107C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-tree\cjs\syntax\node\Rule.cjs133344109219797345 0
-105C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\caniuse-lite\data\regions\CI.js133344109219270522 0
 104C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-what\lib\commonjs\types.js133344109198886275 0
 87C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-tree\data133344109228136967 1
 86C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-tree\lib133344109228028179 1
@@ -3169,9 +3170,6 @@
 109C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-tree\lib\syntax\node\AnPlusB.js133344109221961248 0
 121C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@swc\helpers\cjs\_class_private_method_init.cjs133344109205961975 0
 116C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\caniuse-lite\data\features\inline-block.js133344109232489706 0
-111C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-tree\cjs\syntax\node\Selector.cjs133344109219950086 0
-123C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\caniuse-lite\data\features\css-backdrop-filter.js133344109221316226 0
-120C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\caniuse-lite\data\features\intl-pluralrules.js133344109233107199 0
 108C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-tree\lib\syntax\node\Atrule.js133344109222042775 0
 113C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\core\lib\dumpGraphToGraphViz.js133344109236625651 0
 107C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-tree\lib\syntax\node\Block.js133344109222377226 0
@@ -3319,6 +3317,11 @@
 141C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\CDO.js133344109200676725 0
 106C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-tree\cjs\syntax\node\Raw.cjs133344109219681639 0
 116C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@swc\helpers\_\_object_spread\package.json133344109230006390 0
+107C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-tree\cjs\syntax\node\Rule.cjs133344109219797345 0
+105C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\caniuse-lite\data\regions\CI.js133344109219270522 0
+111C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-tree\cjs\syntax\node\Selector.cjs133344109219950086 0
+123C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\caniuse-lite\data\features\css-backdrop-filter.js133344109221316226 0
+120C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\caniuse-lite\data\features\intl-pluralrules.js133344109233107199 0
 126C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\caniuse-lite\data\features\css-background-offsets.js133344109221381195 0
 145C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\generator\sourceMap.js133344109220617886 0
 115C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-tree\cjs\syntax\node\SelectorList.cjs133344109220013057 0
@@ -3634,7 +3637,6 @@
 105C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-select\lib\esm\compile.d.ts133344109215972127 0
 109C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-select\lib\esm\compile.d.ts.map133344109207561278 0
 96C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\caniuse-lite\README.md133344109243159767 0
-103C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-select\lib\esm\compile.js133344109198957147 0
 102C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@swc\helpers\esm\_extends.js133344109223875364 0
 107C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-select\lib\esm\compile.js.map133344109208037919 0
 105C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\css-select\lib\esm\general.d.ts133344109216270350 0
@@ -4250,8 +4252,6 @@
 132C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\data\index.js133344109213733387 0
 119C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\caniuse-lite\data\features\matchesselector.js133344109234864233 0
 110C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\caniuse-lite\data\features\mathml.js133344109234909270 0
-149C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node133344109216066293 0
-117C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\workers\lib\process\ProcessChild.js133344109217418027 0
 141C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-isolate-override.js133344109235016355 0
 110C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@swc\helpers\_\_extends\package.json133344109229362514 0
 134C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-plaintext.js133344109235075187 0
@@ -4841,6 +4841,8 @@
 124C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\runtime-js\lib\helpers\node\html-loader.js133344109226463557 0
 102C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\workers\lib\types.js133344109218794343 0
 117C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\workers\lib\threads\ThreadsChild.js133344109218321718 0
+149C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node133344109216066293 0
+117C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\workers\lib\process\ProcessChild.js133344109217418027 0
 118C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\workers\lib\process\ProcessWorker.js133344109217658326 0
 118C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\core\test\fixtures\duplicate-targets133344109240561145 1
 112C:\Users\Narvi\Downloads\Apple-vision-main\Apple-vision-main\node_modules\@parcel\watcher-win32-x64\package.json133344109210165585 0
